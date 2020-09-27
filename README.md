@@ -1,6 +1,18 @@
-## About this Aplication Laravel-Blog
+<b>About this Aplication Laravel-Blog</b>
 
-<img src="https://github.com/ronaldi-putra/laravel-blog-seo/blob/master/img/login.png" style="width: 100px;">
+Welcome to my Aplication Laravel-BLOG
+
+<img src="https://github.com/ronaldi-putra/laravel-blog-seo/blob/master/img/login.png" width="250">
+<img src="https://github.com/ronaldi-putra/laravel-blog-seo/blob/master/img/register.png" width="250">
+<img src="https://github.com/ronaldi-putra/laravel-blog-seo/blob/master/img/frontend.png" width="250">
+<img src="https://github.com/ronaldi-putra/laravel-blog-seo/blob/master/img/frontend_isi.png" width="250">
+<img src="https://github.com/ronaldi-putra/laravel-blog-seo/blob/master/img/backend_category.png" width="250">
+<img src="https://github.com/ronaldi-putra/laravel-blog-seo/blob/master/img/backend_tag.png" width="250">
+<img src="https://github.com/ronaldi-putra/laravel-blog-seo/blob/master/img/backend_post.png" width="250">
+<img src="https://github.com/ronaldi-putra/laravel-blog-seo/blob/master/img/file_sampah.png" width="250">
+<img src="https://github.com/ronaldi-putra/laravel-blog-seo/blob/master/img/management_user.png" width="250">
+
+Thankyou all....
 
 ## About Laravel
 
